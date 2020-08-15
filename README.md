@@ -1,2 +1,2 @@
-# Ejercicios-Programación-Go
+# Ejercicios Programación Go
 Tandas de ejercicio
