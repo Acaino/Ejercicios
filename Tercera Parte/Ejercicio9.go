@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var distanciaCentro float64 = 4
+	const distanciaCentro float64 = 4
 	var i float64
 	var imax float64 = distanciaCentro
 	var imin float64 = -distanciaCentro
